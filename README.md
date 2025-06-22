@@ -4,7 +4,7 @@ This project estimates the **vehicle demand energy**, **road load power** and **
 -Highway Drive Cycle
 -USO6
 -SCO3
-##Project Highlights
+## Project Highlights
 -Used **SAE J2263 coast down coefficients** to model realistic vehicle road load 
 -Calculated:
 -Total tractive force
